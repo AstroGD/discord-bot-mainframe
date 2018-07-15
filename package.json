@@ -1,0 +1,23 @@
+{
+  "name": "discord_bot_mainframe",
+  "version": "1.0.1",
+  "description": "A Modular Discord Bot System where everyone can create their own modules and easily insert them into the Bot ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AstroGD/discord-bot-mainframe.git"
+  },
+  "author": "AstroGD",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/AstroGD/discord-bot-mainframe/issues"
+  },
+  "homepage": "https://github.com/AstroGD/discord-bot-mainframe#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "fs-extra": "^6.0.1"
+  }
+}
