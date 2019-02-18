@@ -1,3 +1,10 @@
+# This repository is no longer maintained
+Because of me focussing on other projects this repository will no longer be maintained.
+You are free to use my code still along the license but keep in mind that it may not work any longer and there may be security vulnerabilities due to outdated packages.
+Thank you for showing interest in this project.
+
+~~ AstroGD
+
 # Discord Bot Mainframe
 A Modular Discord Bot System where everyone can create their own modules and easily insert them into the Bot
 
