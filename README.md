@@ -1,7 +1,12 @@
 # This repository is no longer maintained
-Because of me focussing on other projects this repository will no longer be maintained.
-You are free to use my code still along the license but keep in mind that it may not work any longer and there may be security vulnerabilities due to outdated packages.
-Thank you for showing interest in this project.
+Because of me focussing on new projects I have stopped updating this project.<br>
+**It no longer works with the Discord API changes (November 2020) and needs major changes in Order to update to Discord.JS 12 or higher**
+
+### However - The only module I developed for this project is still maintained!
+If you want to use the "Accept-Rules" Module [head to this repository](https://github.com/AstroGD/discord-accept-rules-bot) and install it.
+
+You can also develop own modules for my mainframe if you want but you need to download the "Accept-Rules"-Module to get the latest Version of my Mainframe.
+If you've created a module make sure to reach out to me - Maybe I will get back to supporting this repository and add your Module to check modules_list.md
 
 ~~ AstroGD
 
